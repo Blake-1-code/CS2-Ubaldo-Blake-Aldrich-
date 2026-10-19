@@ -6,5 +6,5 @@ open online GDE
 input code fare_calculator.py
 run the program 
 input distance and amount of people 
-process multiply (distance x 14 x amount of people) 
+process multiply (distance x 14 x amount of people)
 does not include input validation 
